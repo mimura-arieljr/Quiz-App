@@ -1,0 +1,21 @@
+Q40@GeneralInfo@Easy@Identification@Name the world’s largest ocean.@Pacific
+Q41@GeneralInfo@Easy@Identification@Which astrological sign’s symbol is a crab?@Cancer
+Q42@GeneralInfo@Easy@Identification@What is a group of lions called?@pride
+Q43@GeneralInfo@Easy@Identification@What is the last color a rainbow ROYGBIV?@violet
+Q44@GeneralInfo@Easy@Identification@Who was the first American president?@George Washington
+Q45@GeneralInfo@Easy@Identification@Who was the first Philippine president?@Emilio Aguinaldo
+Q46@GeneralInfo@Easy@Identification@Who was the first woman Philippine president?@Corazon Aquino
+Q47@GeneralInfo@Easy@Identification@Which zodiac sign is called The Maiden?@Virgo
+Q48@GeneralInfo@Easy@MultChoice@How many zodiac signs are there?@10, 12, 14@12
+Q49@GeneralInfo@Easy@MultChoice@How many reindeer does Santa have?@8, 12, 10@8
+Q50@GeneralInfo@Easy@MultChoice@Which is the largest country?@Russia, Australia, Ireland@Russia
+Q51@GeneralInfo@Easy@MultChoice@Which social media platform has the feature called Timeline?@Tiktok, Facebook, Instagram?@Facebook
+Q52@GeneralInfo@Easy@MultChoice@How many continents are there?@7, 8, 12@7
+Q53@GeneralInfo@Easy@MultChoice@What is the largest state in America?@Rhode Island, Alaska, Texas@Alaska
+Q54@GeneralInfo@Easy@TrueFalse@Cornea is the part of the human eye that controls the amount of light that passes through the pupil.@false
+Q55@GeneralInfo@Easy@TrueFalse@In chess, a bishop can move diagonally.@true
+Q56@GeneralInfo@Easy@TrueFalse@The Eiffel Tower is in Germany.@false
+Q57@GeneralInfo@Easy@TrueFalse@Japanese alphabet has two types, Katakana and Hiragana.@false 
+Q58@GeneralInfo@Easy@TrueFalse@UST has a lion as their university mascot.@false
+Q59@GeneralInfo@Easy@TrueFalse@Japanese sake is made from rice.@true
+Q60@GeneralInfo@Easy@TrueFalse@Smirnoff mule is a beer.@false

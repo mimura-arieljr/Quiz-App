@@ -1,0 +1,19 @@
+Q139@Entertainment@Hard@Identification@Which Former NBA Player Was Nicknamed “Agent Zero”?@Gilbert Arenas
+Q140@Entertainment@Hard@Identification@The character of Cyclops is romantically linked to what other character in the X-Men universe?@Jean Grey
+Q141@Entertainment@Hard@Identification@In The Matrix, does Neo take the blue or red pill?@red
+Q142@Entertainment@Hard@Identification@In the film series Harry Potter, what is the wizarding sport played on broomsticks?@quidditch
+Q143@Entertainment@Hard@Identification@In Marvel films, what is the name of the actor who portrayed the character of Captain America?@Chris Evans
+Q144@Entertainment@Hard@Identification@In the series The Office, who is the regional branch manager of Scranton branch?@Michael Scott
+Q145@Entertainment@Hard@Identification@In the film Zootopia, what kind of animal is Judy Hopps?@rabbit
+Q146@Entertainment@Hard@MultChoice@What was the first toy to be advertised on television?@Potato Head, Shrek, Buzz Lightyear@Potato Head
+Q147@Entertainment@Hard@MultChoice@What was the name of the band who sang F.R.I.E.N.D.S.’ theme song?@The Rembrandts, Nirvana, Weezer@The Rembrandts
+Q148@Entertainment@Hard@MultChoice@In the first episode of F.R.I.E.N.D.S. Season 1, what was Rachel Green running away from?@her wedding, her dad, a dog@her wedding
+Q149@Entertainment@Hard@MultChoice@Who is the only actor to receive an Oscar nomination for acting in a Lord of the Rings movie?@Ian McKellen, Orlando Bloom, Sean Astin@Ian Mckellen
+Q150@Entertainment@Hard@MultChoice@What is the highest-grossing R-rated movie of all time?@Joker, Inception, Titanic@Joker
+Q151@Entertainment@Hard@MultChoice@Before Miley Cyrus recorded “Wrecking Ball,” it was offered to which singer?@Beyonce, Rihanna, Taylor Swift@Beyonce
+Q152@Entertainment@Hard@TrueFalse@Arthur Doyle created Sherlock Holmes.@true
+Q153@Entertainment@Hard@TrueFalse@Robbie Coltrane, who plays Hagrid in the Harry Potter films, was the first actor to be cast in the series.@true
+Q154@Entertainment@Hard@TrueFalse@In the series Game of Thrones, Jon Snow became the king of Westeros.@false
+Q155@Entertainment@Hard@TrueFalse@Kelly Clarkson was the very first American Idol winner.@true
+Q156@Entertainment@Hard@TrueFalse@Billie Eilish is obsessed with the classic TV show The Office.@true
+Q157@Entertainment@Hard@TrueFalse@Sandra Bullock played the character of Emily in the film series Emily in Paris.@false

@@ -1,0 +1,16 @@
+Q105@Math@Hard@Identification@What is the name of the longest side of a right-angled triangle?@hypotenuse
+Q106@Math@Hard@Identification@What do you call the circles with the same center?@concentric
+Q107@Math@Hard@Identification@What mathematical word is used to indicate the likelihood of something to occur?@probability
+Q108@Math@Hard@Identification@Understanding and describing change is a common theme in the natural sciences, and what was developed as a powerful tool to investigate it?@calculus
+Q109@Math@Hard@Identification@Who is the father of Mathematics?@Archimedes
+Q110@Math@Hard@MultChoice@What is the shape of the mathematical symbol lemniscate?@infinity, hashtag, parallelogram@infinity
+Q111@Math@Hard@MultChoice@Which fundamental object of Calculus can be used to solve the area under a curve?@derivative, integral, differential?@integral
+Q112@Math@Hard@MultChoice@What is the name of the number system that has a base of two?@binary, unicode, bicode@binary
+Q113@Math@Hard@MultChoice@Who was the Greek father of mathematics, who represented equations and numbers using little rocks?@Archimedes, Pythagoras, Thales@Pythagoras
+Q114@Math@Hard@MultChoice@Who popularized the statement, “Cogito, ergo sum.”@Rene Descartes, Leonardo da Vinci, Archimedes@Rene Descartes
+Q115@Math@Hard@TrueFalse@Hologram is a flat image that can be displayed in three dimensions.@true
+Q116@Math@Hard@TrueFalse@A hexadecagon is a geometric form that does not have any vertices.@false
+Q117@Math@Hard@TrueFalse@Eudemus wrote an elaborate history of Greek Geometry from its earliest origins?@true
+Q118@Math@Hard@TrueFalse@The derivative of tanx is secx/tanx.@false
+Q119@Math@Hard@TrueFalse@The integral of sinx is cotx+C@false
+Q120@Math@Hard@TrueFalse@The integral of hyperbolic function cothx dx is ln(coshx)+C@false

@@ -1,0 +1,20 @@
+Q61@GeneralInfo@Hard@Identification@What musical term is indicates a chord where the notes are played one after another rather than all together?@Arpeggio
+Q62@GeneralInfo@Hard@Identification@What color does gold leaf appear if you hold it up to the light?@Green
+Q63@GeneralInfo@Hard@Identification@What is the capital city of Paraguay?@Asuncion
+Q64@GeneralInfo@Hard@Identification@Which instrument is associated with Earl ‘Bud’ Powell?@Piano
+Q65@GeneralInfo@Hard@Identification@In a Glossectomy, which body part is removed?@tongue
+Q66@GeneralInfo@Hard@Identification@Elon Musk is the CEO of which famous brand?@Tesla
+Q67@GeneralInfo@Hard@Identification@What is the technical term for a lie detector?@polygraph
+Q68@GeneralInfo@Hard@Identification@Which is the hardest natural substance found on earth?@diamond
+Q69@GeneralInfo@Hard@MultChoice@Which President has been given credit for abolishing slavery in the USA?@Abraham Lincoln,  John Kennedy, George Bush@Abraham Lincoln
+Q70@GeneralInfo@Hard@MultChoice@What was the name of the first college founded in the United States?@Harvard, MIT, University of Cambridge@Harvard
+Q71@GeneralInfo@Hard@MultChoice@What do the mycologists study?@cancer, mushroom, bacteria@mushroom
+Q72@GeneralInfo@Hard@MultChoice@How many bones are there in an elephant’s trunk?@zero, one, three@zero
+Q73@GeneralInfo@Hard@MultChoice@Which is the study of the function of various systems of organism known as?@Physiology, Neurology, Biology@Physiology
+Q74@GeneralInfo@Hard@MultChoice@Which technique is used by bats to fly in the dark?@night vision, echolocation,  kinetics@echolocation
+Q75@GeneralInfo@Hard@TrueFalse@Two atomic bombs were dropped in Nagasaki and Hiroshima Japan.@true
+Q76@GeneralInfo@Hard@TrueFalse@The first person to step on the moon was Galileo Galilei.@false
+Q77@GeneralInfo@Hard@TrueFalse@The sun in the Milky Way galaxy is considered a star.@true
+Q78@GeneralInfo@Hard@TrueFalse@Lightyear is a measure of time.@false
+Q79@GeneralInfo@Hard@TrueFalse@When in Norway, you can go visit the city of Stockholm.@false
+Q80@GeneralInfo@Hard@TrueFalse@Mount Everest is located in Nepal.@true

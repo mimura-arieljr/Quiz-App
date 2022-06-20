@@ -1,0 +1,19 @@
+Q1@Science@Easy@Identification@Hg is the chemical symbol for which element?@mercury
+Q2@Science@Easy@Identification@Who was the scientist to propose the Laws of Motion?@Isaac Newton
+Q3@Science@Easy@Identification@Animals that eat both plants and meat are called what?@omnivores
+Q4@Science@Easy@Identification@Which is the hottest planet in the solar system?@Venus
+Q5@Science@Easy@Identification@Who was the scientist to propose the General Theory of Relativity?@Albert Einstein
+Q6@Science@Easy@Identification@What is the smallest unit of matter?@atom
+Q7@Science@Easy@Identification@What is the smallest unit of life?@cell
+Q8@Science@Easy@Identification@What is the element Pb?@lead
+Q9@Science@Easy@MultChoice@What do bees collect and use to create honey?@nectar, sunlight, carbon@nectar
+Q10@Science@Easy@MultChoice@Which of Newton’s Laws state that ‘for every action, there is an equal and opposite reaction?@first, second, third@third
+Q11@Science@Easy@MultChoice@How many hearts does an octopus have?@1, 4, 3@3
+Q12@Science@Easy@MultChoice@Dolly was the first ever living creature to be cloned. What type of animal was she?@monkey, sheep, rat@sheep
+Q13@Science@Easy@MultChoice@Hurricanes only form over what?@warm water, cold land, warm land@warm water
+Q14@Science@Easy@TrueFalse@98deg Celcius is the boiling point of water H20@false
+Q15@Science@Easy@TrueFalse@You can hear anything in outer space?@false 
+Q16@Science@Easy@TrueFalse@Your hair and your nails are made from the same material.@true
+Q17@Science@Easy@TrueFalse@HTTP means Hypertext Tranmission Protocol.@false
+Q18@Science@Easy@TrueFalse@The name of Apple's desktop operating system is called Mac OS.@true
+Q19@Science@Easy@TrueFalse@.xls is a file extension used in MS Word.@false

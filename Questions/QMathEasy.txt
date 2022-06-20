@@ -1,0 +1,24 @@
+Q81@Math@Easy@Identification@What is the perimeter of a circle called?@circumference
+Q82@Math@Easy@Identification@Which number is greater, a googol, or a quadrillion?@googol
+Q83@Math@Easy@Identification@What is an angle called if it’s greater than 90 degrees?@obtuse
+Q84@Math@Easy@Identification@What is the top number of a fraction called?@numerator
+Q85@Math@Easy@Identification@What is a shape with eight sides called?@octagon
+Q86@Math@Easy@Identification@What is the roman numeral for number 19?@xix
+Q87@Math@Easy@Identification@Does a convex shape curve inward or outward?@outward
+Q88@Math@Easy@Identification@What is the basic metric unit of mass?@gram
+Q89@Math@Easy@Identification@What is the basic metric unit of length?@meter
+Q90@Math@Easy@Identification@A formula for the area of a circle can be written as (pi)Rsquared, what is R?@radius
+Q91@Math@Easy@Identification@Who formulated the Pythagorean Theorem?@Pythagoras
+Q92@Math@Easy@MultChoice@Angle More Than 180 Degrees and Less Than 360 Degrees is called?@obtuse, reflex, acute@reflex
+Q93@Math@Easy@MultChoice@What’s A Polygon With Four Unequal Sides Called?@parallelogram, rhombus, quadrilateral@quadrilateral
+Q94@Math@Easy@MultChoice@Straight line that touches a circle at a single point is called?@diameter, ray, tangent@tangent
+Q95@Math@Easy@MultChoice@In Which Numerals X, M, V, L, Etc. Belong To?@greek, latin, roman@roman
+Q96@Math@Easy@MultChoice@Angles In Opposite Segments Are Classified As?@supplementary, complementary, angular@supplementary
+Q97@Math@Easy@MultChoice@Which is a formula for solving area of a rectangle with dimensions L and W?@LL, LW, WW@LW
+Q98@Math@Easy@TrueFalse@Zero is the only number that doesn’t have its own Roman numeral.@true
+Q99@Math@Easy@TrueFalse@Two is not the only even prime number.@false
+Q100@Math@Easy@TrueFalse@Pi is a rational number.@false
+Q101@Math@Easy@TrueFalse@All sides are equal in an Isosceles triangle.@false
+Q102@Math@Easy@TrueFalse@Negative four is a natural number.@false
+Q103@Math@Easy@TrueFalse@100 is greater than 10 squared.@false
+Q104@Math@Easy@TrueFalse@The number 28 is a whole number.@true

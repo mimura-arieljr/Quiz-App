@@ -1,0 +1,18 @@
+Q121@Entertainment@Easy@Identification@Which Avenger other than Captain America was able to pick up Thor’s Mjolnir in the Marvel movies?@vision
+Q122@Entertainment@Easy@Identification@In little red riding hood, who does the wolf dress up as?@grandmother
+Q123@Entertainment@Easy@Identification@Who is the half-blood prince in Harry Potter?@Severus Snape
+Q124@Entertainment@Easy@Identification@Wolverine has been played by what Australian actor in the X-Men films spanning from 2000-2017?@Hugh Jackman
+Q125@Entertainment@Easy@Identification@Who was the fictional character Shrek marries in his titular film series?@Fiona
+Q126@Entertainment@Easy@Identification@In the game Mobile Legends:Bang Bang, who has the ability to turn opponents to a cat?@nana
+Q127@Entertainment@Easy@Identification@Which Marvel movie’s soundtrack won two Grammys?@Black Panther
+Q128@Entertainment@Easy@MultChoice@This X-Men character has the ability to shapeshift and has been played by Rebecca Romjin and Jennifer Lawrence?@Mystique, Bumblebee, Adele@mystique
+Q129@Entertainment@Easy@MultChoice@In film sitcom The Big Bang Theory, who is the character who has the highest IQ?@Howard, Sheldon, Leonard@Sheldon
+Q130@Entertainment@Easy@MultChoice@In the animated series Family Guy, what is the name of their family dog?@Brian, Stewie, Peter@Brian
+Q131@Entertainment@Easy@MultChoice@In the anime Naruto, which is NOT a Hokage?@Minato, Naruto, Sasuke@Sasuke
+Q132@Entertainment@Easy@MultChoice@In the cartoon film series Avatar, which is the water bender?@Katara, Sokka, Toph@Katara
+Q133@Entertainment@Easy@TrueFalse@J.K Rowling is the famous author of the Harry Potter book series.@true
+Q134@Entertainment@Easy@TrueFalse@In films, Tom Holland is the second actor who portrayed the role of Spider-Man.@false
+Q135@Entertainment@Easy@TrueFalse@Silent Sanctuary popularized the song Imahe@false
+Q136@Entertainment@Easy@TrueFalse@Legend of Korra is the sequel of the cartoon series Avatar: Legend of Aang@true
+Q137@Entertainment@Easy@TrueFalse@In the anime series Death Note, Kira is also Light Yagami@true
+Q138@Entertainment@Easy@TrueFalse@Benedict Cumberbatch portrayed the character of John Watson in the series film, Sherlock Holmes.@false

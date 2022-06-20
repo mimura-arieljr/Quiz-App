@@ -1,0 +1,20 @@
+Q20@Science@Hard@Identification@Optics is the study of what?@Light
+Q21@Science@Hard@Identification@Which computer company invented the first floppy disks, hard disk drives, and DRAMS?@IBM
+Q22@Science@Hard@Identification@In what type of matter are atoms most tightly packed?@solid
+Q23@Science@Hard@Identification@What instrument is used to measure wind speed?@anemometer
+Q24@Science@Hard@Identification@Which of the following means "rain" when added to a cloud's name?@nimbus, strato, alto@nimbus
+Q25@Science@Hard@MultChoice@Animals that are active during dawn and dusk are called what type of animals?@crepuscular, nocturnal, diurnal@crepuscular
+Q26@Science@Hard@MultChoice@Space travelers from the United States are called astronauts. From Russia, they’re called cosmonauts. Where are taikonauts from?@China, Germany, Japan@china
+Q27@Science@Hard@MultChoice@The name of this disease stems from the medieval term that means ‘bad air’. What disease is it?@Tuberculosis, Malaria, Leprosy@malaria
+Q28@Science@Hard@MultChoice@Who is known as the father of computers?@Charles Babbage, Alan Turing, George Boole@charles babbage
+Q29@Science@Hard@MultChoice@What has the highest atomic number of any non-radioactive element?@Iron, Lead, Polonium@Lead
+Q30@Science@Hard@MultChoice@Which is Jupiter's largest moon?@Io, Ganymede, Europa@Ganymede
+Q31@Science@Hard@MultChoice@Which of the following is NOT generally considered a greenhouse gas?@Oxygen, Carbon, Ozone@Oxygen
+Q32@Science@Hard@MultChoice@Who discovered that a wave's frequency changes when the source and the observer are in motion relative to one another?@Albert Einstein, Christian Doppler, Max Planck@Christian Doppler
+Q33@Science@Hard@TrueFalse@Chloroplasts can be found in animal cells.@false
+Q34@Science@Hard@TrueFalse@Rainforests are considered temperate climate regions.@true
+Q35@Science@Hard@TrueFalse@The graduated cylinder is a tool that’s used to measure fluid volume.@true
+Q36@Science@Hard@TrueFalse@Gregorie Mendel is considered the founder of the modern science of genetics?@false
+Q37@Science@Hard@TrueFalse@Johannes Kepler best known for Laws of Thermodynamics.@false
+Q38@Science@Hard@TrueFalse@Helium becomes a superfluid when cooled to absolute zero.@true
+Q39@Science@Hard@TrueFalse@Spiders have 6 legs@false

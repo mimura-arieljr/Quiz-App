@@ -1,0 +1,30 @@
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\bin\Debug\net6.0\QuizAppMain.exe
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\bin\Debug\net6.0\QuizAppMain.deps.json
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\bin\Debug\net6.0\QuizAppMain.runtimeconfig.json
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\bin\Debug\net6.0\QuizAppMain.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\bin\Debug\net6.0\ref\QuizAppMain.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\bin\Debug\net6.0\QuizAppMain.pdb
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\obj\Debug\net6.0\QuizAppMain.csproj.AssemblyReference.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\obj\Debug\net6.0\QuizAppMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\obj\Debug\net6.0\QuizAppMain.AssemblyInfoInputs.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\obj\Debug\net6.0\QuizAppMain.AssemblyInfo.cs
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\obj\Debug\net6.0\QuizAppMain.csproj.CoreCompileInputs.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\obj\Debug\net6.0\QuizAppMain.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\obj\Debug\net6.0\ref\QuizAppMain.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\obj\Debug\net6.0\QuizAppMain.pdb
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\ProjectDay\ProjectProgram\obj\Debug\net6.0\QuizAppMain.genruntimeconfig.cache
+C:\Users\avmim\documents\GitHub\Quiz-App\bin\Debug\net6.0\QuizAppMain.exe
+C:\Users\avmim\documents\GitHub\Quiz-App\bin\Debug\net6.0\QuizAppMain.deps.json
+C:\Users\avmim\documents\GitHub\Quiz-App\bin\Debug\net6.0\QuizAppMain.runtimeconfig.json
+C:\Users\avmim\documents\GitHub\Quiz-App\bin\Debug\net6.0\QuizAppMain.dll
+C:\Users\avmim\documents\GitHub\Quiz-App\bin\Debug\net6.0\ref\QuizAppMain.dll
+C:\Users\avmim\documents\GitHub\Quiz-App\bin\Debug\net6.0\QuizAppMain.pdb
+C:\Users\avmim\documents\GitHub\Quiz-App\obj\Debug\net6.0\QuizAppMain.csproj.AssemblyReference.cache
+C:\Users\avmim\documents\GitHub\Quiz-App\obj\Debug\net6.0\QuizAppMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avmim\documents\GitHub\Quiz-App\obj\Debug\net6.0\QuizAppMain.AssemblyInfoInputs.cache
+C:\Users\avmim\documents\GitHub\Quiz-App\obj\Debug\net6.0\QuizAppMain.AssemblyInfo.cs
+C:\Users\avmim\documents\GitHub\Quiz-App\obj\Debug\net6.0\QuizAppMain.csproj.CoreCompileInputs.cache
+C:\Users\avmim\documents\GitHub\Quiz-App\obj\Debug\net6.0\QuizAppMain.dll
+C:\Users\avmim\documents\GitHub\Quiz-App\obj\Debug\net6.0\ref\QuizAppMain.dll
+C:\Users\avmim\documents\GitHub\Quiz-App\obj\Debug\net6.0\QuizAppMain.pdb
+C:\Users\avmim\documents\GitHub\Quiz-App\obj\Debug\net6.0\QuizAppMain.genruntimeconfig.cache

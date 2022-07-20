@@ -4,7 +4,10 @@ class QuizAppMain
     public static void Main(string[] args)
     {
         Console.Clear();
+        Console.WriteLine("Please type in your name: ");
+        string? answeredName = Console.ReadLine();
         string? answer1;
+        string highScores = "HighScore.txt";
         do
         {
             Console.WriteLine("\n\n");
@@ -90,6 +93,13 @@ class QuizAppMain
                             }
                             Console.WriteLine("\n\nYour total score is: " + score + "\nThanks for playing!");
                             Console.WriteLine("\nPress Enter to play again.\n");
+                            string scoreTextFile = File.ReadAllText(@highScores).ToString();
+                            int currentHighScore = int.Parse(scoreTextFile);
+                            if (currentHighScore < score)
+                            {
+                                File.WriteAllTextAsync(highScores, answeredName + " : " + score.ToString());
+                                Console.WriteLine("\nCongratulations " + answeredName + "! You set the new high score: " + score);
+                            }
                             Console.ReadLine();
                             Console.Clear();
                         }
@@ -101,15 +111,38 @@ class QuizAppMain
             else if (string.Equals(answer1, "2"))
             {
                 Console.Clear();
-                Console.WriteLine("\n\nPlease set the number of questions you'd like to answer on your next game(1-15).\n");
-                int newTestSize = int.Parse(Console.ReadLine()!);
-                if (newTestSize <= 15)
+                Console.WriteLine("[1] Set number of questions. \n[2] Show High Score \n[3] Reset High Score");
+                string? answer4 = Console.ReadLine();
+                if (String.Equals(answer4,"1"))
                 {
-                    QuestionProvider.SetTestSize(newTestSize);
+                    Console.Clear();
+                    Console.WriteLine("\n\nPlease set the number of questions you'd like to answer on your next game(1-15).\n");
+                    int newTestSize = int.Parse(Console.ReadLine()!);
+                    if (newTestSize <= 15)
+                    {
+                        QuestionProvider.SetTestSize(newTestSize);
+                    }
+                    else
+                    {
+                        Console.WriteLine("\nQuizApp is currently expanding the number of questions available, please set a number according to the stated limit.");
+                    }
                 }
-                else
+                else if (String.Equals(answer4,"2"))
                 {
-                    Console.WriteLine("\nQuizApp is currently expanding the number of questions available, please set a number according to the stated limit.");
+                    Console.Clear();
+                    string scoreTextFile = File.ReadAllText(@highScores).ToString();
+                    Console.WriteLine("The current High Score is: " + scoreTextFile);
+                    Thread.Sleep(2000);
+                }
+                else if (String.Equals(answer4,"3"))
+                {
+                    Console.Clear();
+                    Console.WriteLine("Are you sure you want to reset highscore? (y/n)");
+                    string? answer5 = Console.ReadLine();
+                    if(String.Equals(answer5,"y"))
+                    {
+                        File.WriteAllTextAsync(highScores, "0");
+                    }
                 }
             }
             else

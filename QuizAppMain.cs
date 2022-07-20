@@ -142,6 +142,8 @@ class QuizAppMain
                     if(String.Equals(answer5,"y"))
                     {
                         File.WriteAllTextAsync(highScores, "0");
+                        Console.WriteLine("\nHigh Score has been reset.");
+                        Thread.Sleep(2000);
                     }
                 }
             }

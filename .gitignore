@@ -3,10 +3,10 @@
 *.cache
 *.config
 *.json
-*.txt
 *.editorconfig
 obj/QuizAppMain.csproj.nuget.g.props
 obj/Debug/net6.0/QuizAppMain.AssemblyInfo.cs
 obj/Debug/net6.0/apphost
 bin/Debug/net6.0/QuizAppMain
 obj/.DS_Store
+obj/Debug/net6.0/QuizAppMain.csproj.FileListAbsolute.txt

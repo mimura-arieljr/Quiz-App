@@ -14,6 +14,11 @@ Q13@Science@Easy@MultChoice@Hurricanes only form over what?@warm water, cold lan
 Q14@Science@Easy@TrueFalse@98deg Celcius is the boiling point of water H20@false
 Q15@Science@Easy@TrueFalse@You can hear anything in outer space?@false 
 Q16@Science@Easy@TrueFalse@Your hair and your nails are made from the same material.@true
-Q17@Science@Easy@TrueFalse@HTTP means Hypertext Tranmission Protocol.@false
+Q17@Science@Easy@TrueFalse@HTTP means Hypertext Transmission Protocol.@false
 Q18@Science@Easy@TrueFalse@The name of Apple's desktop operating system is called Mac OS.@true
 Q19@Science@Easy@TrueFalse@.xls is a file extension used in MS Word.@false
+Q20@Science@Easy@TrueFalse@UV stands for UltraViolet.@true
+Q21@Science@Easy@Identification@If E=Mc2 according to Einstein, what does M stand for?@Mass
+Q22@Science@Easy@Identification@What ‘o’ is the earth’s atmospheric layer being destroyed by aerosols?@Ozone
+Q23@Science@Easy@MultChoice@What is the scientific name for the wind pipe?@trachea,larynxia,windpipe@trachea
+Q24@Science@Easy@Identification@In physics, what does ‘DC’ stand for?@Direct Current
